@@ -1,6 +1,6 @@
 # TREMOVIES - rending Movies Database Searcher
 
-TYREMOVIES: is a movie search application built with React.
+Filmo: is a movie search application built with React.
 
 ## Table of Contents
 
